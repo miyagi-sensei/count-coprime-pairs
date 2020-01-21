@@ -32,3 +32,13 @@ Your output should consist of `N` lines, each line containing the number of pair
 5
 3
 ```
+## Subtasks
+For all cases: 
+1 <= N <= 50000, 1 <= x <= 50000<br>
+
+\# | Points | Constraints
+--- | --- | ---
+1 | 20 | N <= 100
+2 | 20 | x's are all prime numbers
+3 | 30 | x's are all powers of prime numbers
+4 | 30 | no additional constraint
