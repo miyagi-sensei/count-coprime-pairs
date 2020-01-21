@@ -14,7 +14,8 @@ Your output should consist of `N` lines, each line containing the number of pair
 
 ## Sample Tests
 **Input 1**
-```7
+```
+7
 1 1
 1 2
 1 3
@@ -24,7 +25,8 @@ Your output should consist of `N` lines, each line containing the number of pair
 2 8
 ```
 **Output 1**
-```0
+```
+0
 1
 3
 6
