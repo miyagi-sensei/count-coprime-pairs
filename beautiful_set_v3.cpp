@@ -1,6 +1,6 @@
 // assuming all x's are powers of prime numbers
 // solve subtask 1-5: 80 points
-#include "stdc++.h"
+#include <iostream>
 using namespace std;
 
 int Q;
