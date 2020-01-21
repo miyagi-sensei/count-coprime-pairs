@@ -13,7 +13,7 @@ The next `N` lines each contains 2 numbers, each describing an operation in the 
 Your output should consist of `N` lines, each line containing the number of pairs of co-prime numbers in the set.
 
 ## Sample Tests
-### Input 1
+**Input 1**
 ```7
 1 1
 1 2
@@ -23,7 +23,7 @@ Your output should consist of `N` lines, each line containing the number of pair
 1 8
 2 8
 ```
-### Output 1
+**Output 1**
 ```0
 1
 3
