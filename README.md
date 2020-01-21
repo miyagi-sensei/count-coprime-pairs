@@ -1,7 +1,7 @@
 # Count Co-Prime Numbers
 Sensei will be adding to or removing numbers (`x`) from a set. 2 numbers in the set are a co-prime pair if and only if `gcd(a, b) = 1`. As Sensei add or remove numbers from the set, the number of co-prime pairs in the set changes. You are to inform him the latest number of co-prime pairs as that happens.
 
-gcd stands for "greatest common denominator", which is also known as HCF (highest common factor).
+> gcd stands for "greatest common denominator", which is also known as HCF (highest common factor).
 
 ## Inputs
 The first line consists of 1 integer `N`.<br>
